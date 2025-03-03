@@ -18,7 +18,7 @@
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="shortcut icon" href="https://hokiku.io/images/2025/02/05/basket-fav-icon.png" />
     <link rel="canonical" href="https://www.gmcparbhani.org/" />
-    <link rel="amphtml" href="https://amp-basket.b-cdn.net/rank.html" />
+    <link rel="amphtml" href="https://www.gmcparbhani.org/amp.html" />
     <!-- start preload -->
     <link rel="preload" href="https://hokiku.io/images/2025/02/15/situsslotgacor.jpeg" as="image" />
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
